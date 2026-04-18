@@ -33,14 +33,6 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 
 ---
 
-### 💻 Programming Languages
-
-- Java: Strong knowledge of Java for building automation test scripts and supporting framework development.
-- JavaScript: Used for test automation scripting and enhancing automation frameworks.
-- TypeScript: Experience in writing structured and scalable automation code for modern testing frameworks.
-
----
-
 ### ⚙️ Automation Frameworks & Tools
 
 - Selenium WebDriver: Extensive experience in automating web application testing, including functional and regression testing using Page Object Model and data-driven frameworks.
