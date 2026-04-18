@@ -50,8 +50,11 @@ Visa Status Permanent Resident
 <!-- SQL (MySQL representation) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
-<!-- Agile (no official devicon → using generic workflow icon) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<!-- Jira -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
+
+<!-- Confluence (optional complement to Jira) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40"/>
 </p>
 
 ## 🛠️ Tools & Technologies
