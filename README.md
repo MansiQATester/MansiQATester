@@ -14,8 +14,6 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 - TestNG: https://github.com/MansiQATester/TestNG
 - Maven:
 
-💬 Ask me about Selenium, SDET, JAVA, POSTMAN
-
 📫 How to reach me imemansi15@gmail.com
 
 📄 Know about my experiences https://www.linkedin.com/in/mansi-mirani-b9672a374/ 
