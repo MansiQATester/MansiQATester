@@ -20,16 +20,77 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 
 🛂 Visa Status Permanent Resident
  
-## 🚀 Skills
+<h2>🛠️ Technical Skills</h2>
 
-- Manual Testing  
-- Functional Testing  
-- Regression Testing  
-- API Testing (Postman)  
-- Automation Testing (Selenium, TestNG)  
-- Mobile Testing (Appium)  
-- SQL & Database Validation  
-- Agile & Scrum
+---
+
+<h3>🧪 Manual Testing & QA Fundamentals</h3>
+
+- ✔️ Comprehensive Test Case Design – Functional, Regression, Smoke, Sanity, Exploratory Testing  
+- ✔️ Defect Tracking & Management – Jira for bug lifecycle tracking and reporting  
+- ✔️ Test Planning & Strategy – Requirement-based test coverage and execution planning  
+- ✔️ User Acceptance Testing (UAT) – End-to-end validation with stakeholders  
+
+---
+
+<h3>💻 Programming Languages</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+
+- Java, JavaScript, TypeScript – Automation scripting & framework development  
+
+---
+
+<h3>⚙️ Automation Frameworks & Tools</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+<img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>
+
+- Selenium WebDriver – UI automation & regression testing  
+- Appium – Mobile automation testing  
+- Playwright – Modern end-to-end automation  
+
+---
+
+<h3>🚀 CI/CD & DevOps</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+
+- Jenkins – CI/CD pipeline integration  
+- GitHub – Version control & collaboration  
+- Docker – Containerized test environments  
+
+---
+
+<h3>🔧 Testing Tools</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+
+- Jira – Bug tracking & Agile workflow management  
+- Postman – API testing & validation  
+- BrowserStack / Sauce Labs – Cross-browser testing  
+
+---
+
+<h3>🗄️ Database & API Testing</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+- SQL (MySQL / SQL Server) – Database validation & backend testing  
+- REST API Testing – Postman, Rest Assured  
+
+---
+
+<h3>📌 Agile Methodology</h3>
+
+- Scrum / Agile SDLC  
+- Sprint planning, daily stand-ups, retrospectives  
 
 ## 🛠️ Languages and Tools
 
