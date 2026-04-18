@@ -16,7 +16,7 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 
 📄 Know about my experiences https://www.linkedin.com/in/mansi-mirani-b9672a374/ 
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/cfdff6f4-decd-4158-9233-2827ed47f711" /> Visa Status Permanent Resident
+Visa Status Permanent Resident
  
 ## 🚀 Skills
 
