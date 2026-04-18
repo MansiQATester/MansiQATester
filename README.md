@@ -1,6 +1,6 @@
-## Hi 👋, I'm Mansi Mirani
+<center>## Hi 👋, I'm Mansi Mirani
 QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
-
+</center>
 🔭 I’m currently working on Selenium, Ready API Automation Testing & Manual Testing
 
 👯 I’m looking to collaborate on Automation Testing, API Testing, Selenium, Automation Frameworks, Manual Testing
