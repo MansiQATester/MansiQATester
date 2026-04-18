@@ -36,9 +36,7 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 ### ⚙️ Automation Frameworks & Tools
 
 - Selenium WebDriver: Extensive experience in automating web application testing, including functional and regression testing using Page Object Model and data-driven frameworks.
-- Playwright: Experience in end-to-end testing for modern web applications with improved reliability and speed.
 - Appium: Skilled in mobile automation testing for Android and iOS applications, ensuring cross-platform compatibility and functionality.
-- REST Assured: Experience in API automation testing, including response validation, status code verification, and integration testing.
 
 ---
 
@@ -46,7 +44,6 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 
 - Jenkins: Experience in building and maintaining CI/CD pipelines for automated test execution and continuous integration.
 - GitHub: Proficient in version control, collaboration, and managing test automation repositories.
-- Docker: Familiar with containerization for creating consistent test environments and improving deployment reliability.
 
 ---
 
@@ -54,15 +51,14 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 
 - Jira: Used for defect tracking, test management, and Agile project coordination.
 - Postman: Experienced in manual API testing, validating endpoints, request-response structure, and data integrity.
-- BrowserStack / Sauce Labs: Used for cross-browser and cross-device testing to ensure application compatibility across platforms.
-- Accessibility Testing Tools (Axe DevTools, Applitools): Familiar with UI/UX validation and accessibility compliance testing.
+- Accessibility Testing Tools (NVDA): Familiar with UI/UX validation and accessibility compliance testing.
 
 ---
 
 ### 🗄️ Database & API Testing
 
 - SQL (MySQL / SQL Server): Strong knowledge in writing SQL queries for data validation, backend testing, and database integrity checks.
-- API Testing: Experienced in validating REST APIs using Postman and Rest Assured, ensuring correct data flow, authentication, and response handling.
+- API Testing: Experienced in validating REST APIs using Postman ensuring correct data flow, authentication, and response handling.
 
 ---
 
