@@ -35,9 +35,6 @@ Visa Status Permanent Resident
  <!-- Selenium -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
 
-<!-- Jenkins -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-
 <!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
@@ -61,8 +58,9 @@ Visa Status Permanent Resident
 </p>
 
 ### 🚀 CI/CD
-![Jenkins](https://img.shields.io/badge/-Jenkins-red?logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?logo=githubactions)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📚 Currently Learning
 
