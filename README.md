@@ -20,77 +20,65 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 
 🛂 Visa Status Permanent Resident
  
-<h2>🛠️ Technical Skills</h2>
+## 🛠️ Technical Skills
 
 ---
 
-<h3>🧪 Manual Testing & QA Fundamentals</h3>
+### 🧪 Manual Testing & QA Fundamentals
 
-- ✔️ Comprehensive Test Case Design – Functional, Regression, Smoke, Sanity, Exploratory Testing  
-- ✔️ Defect Tracking & Management – Jira for bug lifecycle tracking and reporting  
-- ✔️ Test Planning & Strategy – Requirement-based test coverage and execution planning  
-- ✔️ User Acceptance Testing (UAT) – End-to-end validation with stakeholders  
-
----
-
-<h3>💻 Programming Languages</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-
-- Java, JavaScript, TypeScript – Automation scripting & framework development  
+- Comprehensive Test Case Design: Experienced in designing detailed and effective test cases covering functional, regression, smoke, sanity, and exploratory testing scenarios.
+- Defect Tracking & Management: Skilled in identifying, documenting, and tracking defects using tools like Jira, ensuring proper lifecycle management and resolution with development teams.
+- Test Planning & Strategy Development: Proficient in creating structured test plans and strategies aligned with business and project requirements to ensure maximum test coverage.
+- User Acceptance Testing (UAT): Experienced in preparing UAT test scenarios, executing test cases, and collaborating with stakeholders to validate business requirements and final product quality.
 
 ---
 
-<h3>⚙️ Automation Frameworks & Tools</h3>
+### 💻 Programming Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-<img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>
-
-- Selenium WebDriver – UI automation & regression testing  
-- Appium – Mobile automation testing  
-- Playwright – Modern end-to-end automation  
+- Java: Strong knowledge of Java for building automation test scripts and supporting framework development.
+- JavaScript: Used for test automation scripting and enhancing automation frameworks.
+- TypeScript: Experience in writing structured and scalable automation code for modern testing frameworks.
 
 ---
 
-<h3>🚀 CI/CD & DevOps</h3>
+### ⚙️ Automation Frameworks & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-
-- Jenkins – CI/CD pipeline integration  
-- GitHub – Version control & collaboration  
-- Docker – Containerized test environments  
+- Selenium WebDriver: Extensive experience in automating web application testing, including functional and regression testing using Page Object Model and data-driven frameworks.
+- Playwright: Experience in end-to-end testing for modern web applications with improved reliability and speed.
+- Appium: Skilled in mobile automation testing for Android and iOS applications, ensuring cross-platform compatibility and functionality.
+- REST Assured: Experience in API automation testing, including response validation, status code verification, and integration testing.
 
 ---
 
-<h3>🔧 Testing Tools</h3>
+### 🚀 CI/CD & DevOps
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-
-- Jira – Bug tracking & Agile workflow management  
-- Postman – API testing & validation  
-- BrowserStack / Sauce Labs – Cross-browser testing  
+- Jenkins: Experience in building and maintaining CI/CD pipelines for automated test execution and continuous integration.
+- GitHub: Proficient in version control, collaboration, and managing test automation repositories.
+- Docker: Familiar with containerization for creating consistent test environments and improving deployment reliability.
 
 ---
 
-<h3>🗄️ Database & API Testing</h3>
+### 🔧 Testing Tools & Platforms
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-- SQL (MySQL / SQL Server) – Database validation & backend testing  
-- REST API Testing – Postman, Rest Assured  
+- Jira: Used for defect tracking, test management, and Agile project coordination.
+- Postman: Experienced in manual API testing, validating endpoints, request-response structure, and data integrity.
+- BrowserStack / Sauce Labs: Used for cross-browser and cross-device testing to ensure application compatibility across platforms.
+- Accessibility Testing Tools (Axe DevTools, Applitools): Familiar with UI/UX validation and accessibility compliance testing.
 
 ---
 
-<h3>📌 Agile Methodology</h3>
+### 🗄️ Database & API Testing
 
-- Scrum / Agile SDLC  
-- Sprint planning, daily stand-ups, retrospectives  
+- SQL (MySQL / SQL Server): Strong knowledge in writing SQL queries for data validation, backend testing, and database integrity checks.
+- API Testing: Experienced in validating REST APIs using Postman and Rest Assured, ensuring correct data flow, authentication, and response handling.
+
+---
+
+### 📌 Agile Methodology
+
+- Experience working in Agile/Scrum environments.
+- Involved in sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+- Collaboration with developers, product owners, and stakeholders to ensure smooth delivery cycles.  
 
 ## 🛠️ Languages and Tools
 
