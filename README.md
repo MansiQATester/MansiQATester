@@ -22,8 +22,6 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
  
 ## 🛠️ Technical Skills
 
----
-
 ### 🧪 Manual Testing & QA Fundamentals
 
 - Comprehensive Test Case Design: Experienced in designing detailed and effective test cases covering functional, regression, smoke, sanity, and exploratory testing scenarios.
