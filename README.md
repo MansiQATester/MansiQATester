@@ -29,7 +29,7 @@ Visa Status Permanent Resident
 - SQL & Database Validation  
 - Agile & Scrum
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
  <!-- Selenium -->
@@ -55,16 +55,10 @@ Visa Status Permanent Resident
 
 <!-- Confluence (optional complement to Jira) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40"/>
+
+<!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
-
-## 🛠️ Tools & Technologies
-
-![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium)
-![Java](https://img.shields.io/badge/-Java-blue?logo=java)
-![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
-![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira)
-![Appium](https://img.shields.io/badge/-Appium-black?logo=appium)
-![Git](https://img.shields.io/badge/-Git-orange?logo=git)
 
 ### 🚀 CI/CD
 ![Jenkins](https://img.shields.io/badge/-Jenkins-red?logo=jenkins)
