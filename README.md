@@ -5,7 +5,10 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 
 👯 I’m looking to collaborate on Automation Testing, API Testing, Selenium, Automation Frameworks, Manual Testing
 
-👨‍💻 All of my projects are available at 
+👨‍💻 All of my projects are available at:
+- Selenium Basics: https://github.com/MansiQATester/DemoCode
+- TestNG: https://github.com/MansiQATester/TestNG
+- Maven:
 
 💬 Ask me about Selenium, SDET, JAVA, POSTMAN
 
@@ -13,7 +16,7 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 
 📄 Know about my experiences https://www.linkedin.com/in/mansi-mirani-b9672a374/ 
 
- icons8-passport-16 Visa Status Permanent Resident
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/055b979e-009e-4887-b854-c92f544af6a9" /> Visa Status Permanent Resident
  
 ## 🚀 Skills
 
@@ -44,8 +47,6 @@ QA Engineer | Manual Testing | Automation Testing | API Testing | AI Testing
 - Cypress Automation  
 - Python for API Testing (pytest)  
 - Playwright
-
-- 
 
 <!--
 **MansiQATester/MansiQATester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
